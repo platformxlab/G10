@@ -1,0 +1,20 @@
+256 | 384 | 512 | 640
+
+0
+inf inf inf inf
+
+16
+inf inf inf inf
+
+32
+inf inf inf inf
+
+64
+inf inf inf inf
+
+128
+10992552904 inf 18980722809 inf
+
+256
+inf inf inf inf
+

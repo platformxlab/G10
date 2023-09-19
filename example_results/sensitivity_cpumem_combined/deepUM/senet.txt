@@ -1,0 +1,23 @@
+256 | 512 | 768 | 1024
+
+0
+inf inf inf inf
+
+16
+inf inf inf inf
+
+32
+inf inf inf inf
+
+64
+inf inf inf inf
+
+96
+inf inf inf inf
+
+128
+155961670602 161127405858 192407066623 231771470702
+
+256
+inf inf inf inf
+

@@ -1,0 +1,23 @@
+768 | 1024 | 1280 | 1536
+
+0
+inf inf inf inf
+
+16
+inf inf inf inf
+
+32
+inf inf inf inf
+
+64
+inf inf inf inf
+
+128
+135031635971 143114819385 158428482477 inf
+
+192
+inf inf inf inf
+
+256
+inf inf inf inf
+
